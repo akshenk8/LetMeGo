@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "756359360215",
+    "firebase_url": "https://split-app-153319.firebaseio.com",
+    "project_id": "split-app-153319",
+    "storage_bucket": "split-app-153319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756359360215:android:5d11139a6cde8e7f",
+        "android_client_info": {
+          "package_name": "a8080.com.technovanzatransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756359360215-c24clcmkr49cc0qgbdtsmrcp7kbfme4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayF2en80-xN3zDIwI1fn1mJ8EvPYMHtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756359360215:android:b31f93f7c6aa91b5",
+        "android_client_info": {
+          "package_name": "a8080.com.technovanaamb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756359360215-c24clcmkr49cc0qgbdtsmrcp7kbfme4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayF2en80-xN3zDIwI1fn1mJ8EvPYMHtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
